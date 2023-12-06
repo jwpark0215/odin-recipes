@@ -1,0 +1,1 @@
+This project is a simple project that will demonstrate HTML skills learned in the odin project. The html file contains food recipes that will be constructed using html elements. 
